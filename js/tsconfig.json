@@ -1,0 +1,12 @@
+{
+  "extends": "flarum-tsconfig/tsconfig.json",
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "rootDir": "./src",
+    "baseUrl": "./",
+    "paths": {
+      "flarum/*": ["node_modules/flarum/*"]
+    },
+    "ignoreDeprecations": "6.0"
+  }
+}
