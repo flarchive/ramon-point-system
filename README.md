@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of ramon/point-system.** Not for installation: use [Packagist](https://packagist.org/packages/ramon/point-system) or the [upstream repository](https://github.com/ram0ng1/point-system).
 
-**0** versions archived · Latest: [`v2.1.15`](https://github.com/flarchive/ramon-point-system/tree/archive/v2.1.15) · License: `MIT` · Flarum: `^2.0.0`
+**23** versions archived · Latest: [`v2.1.15`](https://github.com/flarchive/ramon-point-system/tree/archive/v2.1.15) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-05-13 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-point-system/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-05-14 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-point-system/tree/archive/v2.0.1) |
+| `v2.0.2` | 2026-05-14 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-point-system/tree/archive/v2.0.2) |
+| `v2.0.3` | 2026-05-15 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-point-system/tree/archive/v2.0.3) |
+| `v2.0.4` | 2026-05-15 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-point-system/tree/archive/v2.0.4) |
+| `v2.0.5` | 2026-05-16 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-point-system/tree/archive/v2.0.5) |
+| `v2.0.6` | 2026-05-16 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-point-system/tree/archive/v2.0.6) |
+| `v2.1.0` | 2026-05-17 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-point-system/tree/archive/v2.1.0) |
+| `v2.1.1` | 2026-05-22 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-point-system/tree/archive/v2.1.1) |
+| `v2.1.10` | 2026-07-27 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-point-system/tree/archive/v2.1.10) |
+
+[View all 23 versions](https://github.com/flarchive/ramon-point-system/tags)
 
 Catalog entry: [packages/ramon-point-system.json](https://github.com/flarchive/archive-index/blob/main/packages/ramon-point-system.json)
 
